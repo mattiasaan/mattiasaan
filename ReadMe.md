@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiasaan&layout=donut&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/mattiasaan)
 
 # 📫 Connect with me:
-[Portfolio](https://mattiasaan.github.io/Portfolio/) • [Email](mailto:mattia.san@gmail.com)
+[Portfolio](https://mattiasaan.github.io/Portfolio/) • [Email](mailto:mattiasan0408@gmail.com)
